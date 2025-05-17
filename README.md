@@ -20,5 +20,5 @@ This project leverages **MySQL** (structured data) and **MongoDB** (unstructured
 
 -**Output** - of SQL query is uploaded in csv file
 
--**MongoDb**- operation screenshot is attached.
+-**MongoDb**- operation screenshot is attached
 ---
