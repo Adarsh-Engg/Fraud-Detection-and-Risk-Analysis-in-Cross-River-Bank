@@ -15,3 +15,8 @@ This project leverages **MySQL** (structured data) and **MongoDB** (unstructured
 
 ---
 
+Problem statement is in PDF format
+SQL syntax is uploaded in .sql file
+Output of SQL query is uploaded in csv file
+MongoDb operation screenshot is attached.
+
