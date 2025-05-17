@@ -1,0 +1,2 @@
+loan_purpose,loan_purpose_count,avg(loan_amount)
+"Business Expansion",777,251694.8340

@@ -1,0 +1,49 @@
+loan_id,loan_amount,loan_purpose,total_paid,repayment_ratio,emi_count
+597,6677,Education,79329,11.88,2
+1105,8431,"Home Renovation",48160,5.71,1
+1254,9169,Education,49977,5.45,1
+1341,8554,Medical,46604,5.45,2
+2549,8607,"Home Renovation",45161,5.25,1
+2019,8605,Medical,38302,4.45,1
+2186,8516,Medical,30950,3.63,1
+635,13118,Medical,41789,3.19,1
+2061,22641,"Business Expansion",68078,3.01,2
+1489,12916,"Home Renovation",38578,2.99,1
+2086,17200,Education,49728,2.89,1
+2450,12860,"Home Renovation",34582,2.69,1
+1449,19800,Education,49097,2.48,2
+872,8284,Medical,20490,2.47,1
+1649,36824,"Home Renovation",80620,2.19,2
+965,22287,Medical,47467,2.13,1
+1487,17265,"Business Expansion",33071,1.92,1
+1195,44766,"Business Expansion",84900,1.90,2
+2849,23846,Medical,44453,1.86,1
+890,25743,"Home Renovation",45293,1.76,1
+478,19964,"Home Renovation",34692,1.74,1
+243,29265,Medical,49788,1.70,1
+1557,7846,"Business Expansion",13144,1.68,1
+502,13149,"Home Renovation",21312,1.62,1
+2337,19167,Education,30937,1.61,2
+705,36045,"Home Renovation",57274,1.59,2
+73,30924,Education,48061,1.55,1
+2067,55334,"Business Expansion",82434,1.49,2
+2292,31555,"Business Expansion",44003,1.39,1
+2093,33650,Medical,46446,1.38,1
+559,63500,Medical,86278,1.36,2
+271,38572,Education,48166,1.25,1
+673,40341,"Business Expansion",48465,1.20,2
+2228,93699,Medical,108522,1.16,3
+913,40186,"Business Expansion",45795,1.14,2
+663,46602,Education,52271,1.12,2
+2769,9123,Medical,10146,1.11,2
+899,41905,"Business Expansion",46311,1.11,2
+2561,43599,Medical,47117,1.08,1
+2242,42003,"Business Expansion",44595,1.06,2
+2888,48938,Education,50973,1.04,3
+2832,17150,Medical,17588,1.03,1
+1207,51407,"Home Renovation",51670,1.01,2
+2112,17029,"Business Expansion",16064,0.94,1
+1194,49018,Education,46134,0.94,1
+2742,51722,Education,48543,0.94,1
+183,42176,"Business Expansion",37804,0.90,1
+1583,50967,"Business Expansion",45835,0.90,1

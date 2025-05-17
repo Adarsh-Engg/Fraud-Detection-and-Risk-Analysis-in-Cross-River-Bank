@@ -1,0 +1,6 @@
+credit_score_range,total_loans,average_loan_amount,total_loan_disbursed
+"Excellent (800+)",289,266335.39,76970928
+"Fair (600–699)",517,242410.89,125326432
+"Good (700–749)",269,263686.09,70931558
+"Poor (300–599)",1649,250687.52,413383720
+"Very Good (750–799)",276,247344.40,68267054
