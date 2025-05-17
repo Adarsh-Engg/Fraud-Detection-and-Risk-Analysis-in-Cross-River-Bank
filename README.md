@@ -15,5 +15,3 @@ This project leverages **MySQL** (structured data) and **MongoDB** (unstructured
 
 ---
 
-## 📂 Project Structure
-
